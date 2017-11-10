@@ -2,3 +2,5 @@ https://device.com/phones
 https://devices.com/phones/Samsung?OS=5.0&location=Goris
 https://devices.com/tablets/
 https://devices.com/tablets/Lenovo?OS=7.1&screensize=10.1-inch
+https://brand?os={os}&location={loaction}
+https://devices?{type}={type}&{brand}={brand}&os{os}={os}
